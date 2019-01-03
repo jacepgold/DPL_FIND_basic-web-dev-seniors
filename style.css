@@ -1,0 +1,135 @@
+/* Text */
+
+/* text color */
+
+color: black;
+/* text align */
+
+text-align: center;
+text-align: left;
+text-align: right;
+text-align: justify;
+/* text decoration */
+
+text-decoration: none;
+text-decoration: overline;
+text-decoration: line-through;
+text-decoration: underline;
+/* text shadow */
+
+text-shadow: 3px 2px red;
+/* font family */
+
+font-family: "Times New Roman",
+Times,
+serif;
+/* font style */
+
+font-style: normal;
+font-style: italic;
+font-style: oblique;
+/* font size */
+
+font-size: 40px;
+/* font weight */
+
+font-weight: normal;
+font-weight: bold;
+/* background */
+
+/* background color */
+
+background-color: blue;
+/* background image */
+
+background-image: url("");
+/* background position */
+
+background-position: right top;
+/* Box Model */
+
+/* border */
+
+border-style: solid;
+/* dotted
+    dashed
+    solid
+    double
+    groove
+    ridge 
+    inset 
+    outset
+    none
+    hidden */
+
+border-width: 5px;
+border-style: solid;
+border-color: green;
+border: 5px solid red;
+/* margin */
+
+margin-top: 10px;
+margin-bottom: 10px;
+margin-right: 50px;
+margin-left: 40px;
+margin: 10px 10px 50px 40px;
+margin: 25px 50px 75px;
+margin: 0 auto;
+margin: 30px;
+/* padding */
+
+padding-top: 20px;
+padding-right: 10px;
+padding-bottom: 30px;
+padding-left: 40px;
+padding: 20px 10px 30px 40px;
+padding: 20px 10px 30px;
+padding: 20px 10px;
+padding: 30px;
+/* width and height */
+
+width: 40%;
+height: 20px;
+/* Float */
+
+float: right;
+float: left;
+float: none;
+/* Opacity */
+
+opacity: 0;
+opacity: 0.5;
+opacity: 1;
+/* Colors */
+
+/* name */
+
+blue red green pink
+/* rgb */
+
+rgb(123,
+49,
+72)
+/* rgba */
+
+rgba(123,
+49,
+72,
+3)
+/* hex */
+
+#fff #ff1232
+/* hsl */
+
+hsl(7,
+10%,
+40%)
+/* hsla */
+
+hsla(2,
+100%,
+40%,
+0.2)
+/* Units */
+
+cm in mm px pt pc % em ex ch rem vh vw vmin vmax
